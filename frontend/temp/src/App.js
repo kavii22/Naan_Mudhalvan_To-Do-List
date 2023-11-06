@@ -142,7 +142,7 @@ const App = () => {
 	  
     </div>
 	<div class="footer">
-		<a href='https://github.com/NagiPragalathan/NaanMuthalvan_ToDo' target='_blank' rel="NaanMuthalvan_ToDo"><FaGithub className='github'/></a>
+		<a href='https://github.com/kavii22/Naan_Mudhalvan_To-Do-List' target='_blank' rel="NaanMuthalvan_ToDo"><FaGithub className='github'/></a>
 	</div>
 	</>
   );
